@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-all-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-cdense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-core-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-ddense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-dsparse-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-fdense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-simple-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/ejml-zdense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/javanmf-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/javatuples-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/sqlite-jdbc-3.32.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaaxx/eclipse/jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
